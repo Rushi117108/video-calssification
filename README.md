@@ -5,15 +5,15 @@ This code uses videos as inputs and outputs class names and predicted class scor
 The backnbone CNN model used to extract features from each image and given inputed to BiLSTM which is a sequencial model which deduces the sequencial information in videos.
 
 # Requirements
-Tensorflow
-Python 3
-Cuda
-Matplotlib
-Numpy
-Pandas
-open-cv
-gc
-generator
+Tensorflow  
+Python 3  
+Cuda  
+Matplotlib  
+Numpy  
+Pandas  
+open-cv  
+gc  
+video-generator    
 
 # Usage
 Assume dataset in /home folder. Each classes should have its folder and inside videos.  
