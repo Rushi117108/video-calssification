@@ -19,13 +19,13 @@ generator
 Assume dataset in /home folder. Each classes should have its folder and inside videos.
 /home  
   |  
-  Swimming  
-      |  
-        video1.avi  
-        ...  
-    Push Up  
-     |  
-       video1.avi  
-       ...  
+  ---Swimming  
+     --- |  
+        ---video1.avi  
+        ---...  
+    ---Push Up  
+     ---|  
+       ---video1.avi  
+       ---...  
 
 
