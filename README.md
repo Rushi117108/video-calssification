@@ -16,16 +16,16 @@ gc
 generator
 
 # Usage
-Assume dataset in /home folder. Each classes should have its folder and inside videos.
+Assume dataset in /home folder. Each classes should have its folder and inside videos.  
 /home  
   |  
   &ensp;Swimming  
-     --- |  
-        ---video1.avi  
-        ---...  
-    ---Push Up  
-     ---|  
-       ---video1.avi  
-       ---...  
+     &ensp; |  
+        &emsp;video1.avi  
+        &emsp;...  
+    &ensp;Push Up  
+     &ensp;|  
+       &emsp;video1.avi  
+       &emsp;...  
 
 
