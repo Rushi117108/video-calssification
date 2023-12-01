@@ -17,21 +17,15 @@ generator
 
 # Usage
 Assume dataset in /home folder. Each classes should have its folder and inside videos.
-/home
-  |
-    Swimming
-      |
-        video1.avi
-        ...
-    Push Up
-     |
-       video1.avi
-       ...
+/home  
+  |  
+  Swimming  
+      |  
+        video1.avi  
+        ...  
+    Push Up  
+     |  
+       video1.avi  
+       ...  
 
-.
-├── ...
-├── test                    # Test files (alternatively `spec` or `tests`)
-│   ├── benchmarks          # Load and stress tests
-│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
-│   └── unit                # Unit tests
-└── ...
+
