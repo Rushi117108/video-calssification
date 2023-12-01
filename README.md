@@ -19,7 +19,7 @@ generator
 Assume dataset in /home folder. Each classes should have its folder and inside videos.
 /home  
   |  
-  ---Swimming  
+  &ensp;Swimming  
      --- |  
         ---video1.avi  
         ---...  
